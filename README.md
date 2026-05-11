@@ -2,8 +2,6 @@
 
 A minimal sample for evaluating an ADK agent with the `tool_trajectory_avg_score` criterion.
 
-Article (Japanese): TODO: add Zenn URL
-
 ## Layout
 
 ```
